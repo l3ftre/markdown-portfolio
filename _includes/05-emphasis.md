@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Nothing!
+i can do nothing but **sleep eat ** play _what i want to play,_ besides **i like the bold font and the _italic** font it's so_ funny.

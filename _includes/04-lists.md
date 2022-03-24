@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* MY FAVOURITE THINGS
+ *MONEY
+ *BITCHIES
+* MY HATED THINGS
+ *WORKS
+ BITCHIES

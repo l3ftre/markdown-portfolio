@@ -1,2 +1,2 @@
 Nothing!
-i can do nothing but **sleep eat ** play _what i want to play,_ besides **i like the bold font and the _italic** font it's so_ funny.
+i can do nothing but sleep eat **play _what i want to play,_ besides**i like the bold font and the _italic**font it's so_ funny.
